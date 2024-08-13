@@ -1178,13 +1178,13 @@ files = [
 
 [[package]]
 name = "sortinghat"
-version = "1.2.0"
+version = "1.2.1"
 description = "A tool to manage identities."
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "sortinghat-1.2.0-py3-none-any.whl", hash = "sha256:741ff9879588067c1f55172d7557f6b6e20599f9fc140db52ad87a04bcb682c6"},
-    {file = "sortinghat-1.2.0.tar.gz", hash = "sha256:5c436ad0cb89b325dc9fd5481df3e74b76003534d66510ee70df48f9404f996a"},
+    {file = "sortinghat-1.2.1-py3-none-any.whl", hash = "sha256:dc5768842f302a758b7309ba732a0fa822e2dc0229d0918952f0889cdc4276fc"},
+    {file = "sortinghat-1.2.1.tar.gz", hash = "sha256:1b15e7ff82b8fc32eec5d85078d6a8fbcfdc75eb57f8b037f8185e6b7b6a5de0"},
 ]
 
 [package.dependencies]
@@ -1288,13 +1288,13 @@ files = [
 
 [[package]]
 name = "zipp"
-version = "3.19.2"
+version = "3.20.0"
 description = "Backport of pathlib-compatible object wrapper for zip files"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "zipp-3.19.2-py3-none-any.whl", hash = "sha256:f091755f667055f2d02b32c53771a7a6c8b47e1fdbc4b72a8b9072b3eef8015c"},
-    {file = "zipp-3.19.2.tar.gz", hash = "sha256:bf1dcf6450f873a13e952a29504887c89e6de7506209e5b1bcc3460135d4de19"},
+    {file = "zipp-3.20.0-py3-none-any.whl", hash = "sha256:58da6168be89f0be59beb194da1250516fdaa062ccebd30127ac65d30045e10d"},
+    {file = "zipp-3.20.0.tar.gz", hash = "sha256:0145e43d89664cfe1a2e533adc75adafed82fe2da404b4bbb6b026c0157bdb31"},
 ]
 
 [package.extras]
