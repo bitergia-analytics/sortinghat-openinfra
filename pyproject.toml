@@ -36,17 +36,14 @@ classifiers = [
 "Bug Tracker" = "https://github.com/bitergia-analytics/sortinghat-openinfra/issues"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 
 sortinghat = { version = ">=0.8.1", allow-prereleases = true}
 grimoirelab-toolkit = { version = ">=0.3", allow-prereleases = true}
 
-charset-normalizer = "3.3.0"
-cachetools = "5.3.1"
-
 [tool.poetry.group.dev.dependencies]
 httpretty = "^1.1.4"
-flake8 = "^4.0.1"
+flake8 = "^7.1.1"
 
 [build-system]
 requires = ["poetry-core"]
