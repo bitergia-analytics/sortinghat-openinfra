@@ -587,14 +587,14 @@ six = ">=1.12"
 
 [[package]]
 name = "grimoirelab-toolkit"
-version = "1.0.14"
+version = "1.0.15rc1"
 description = "Toolkit of common functions used across GrimoireLab"
 optional = false
 python-versions = "<4.0,>=3.9"
 groups = ["main"]
 files = [
-    {file = "grimoirelab_toolkit-1.0.14-py3-none-any.whl", hash = "sha256:684a2ef467e40135f9e301c33ef71f0599208a663bed33e54ee1bf936710e411"},
-    {file = "grimoirelab_toolkit-1.0.14.tar.gz", hash = "sha256:ce0270a4fd690d53f99ba088ce9505ae44bf21aa2100c7dc8bc8496ee0324a6d"},
+    {file = "grimoirelab_toolkit-1.0.15rc1-py3-none-any.whl", hash = "sha256:930533bffe9a53a976c949122a59c6dcfca6dd17b9c693ef9a0554653e03486b"},
+    {file = "grimoirelab_toolkit-1.0.15rc1.tar.gz", hash = "sha256:2311ef2287d5e3d79a5cc6a34118de4b2d61b697934fba65e9ce8b746241ac04"},
 ]
 
 [package.dependencies]
@@ -1298,14 +1298,14 @@ files = [
 
 [[package]]
 name = "sortinghat"
-version = "1.10.1"
+version = "1.11.0rc1"
 description = "A tool to manage identities."
 optional = false
 python-versions = "<4.0,>=3.9"
 groups = ["main"]
 files = [
-    {file = "sortinghat-1.10.1-py3-none-any.whl", hash = "sha256:5193884c0951808be4e5193619f0c68557be75089251aa13504a7a26a6b5d4c1"},
-    {file = "sortinghat-1.10.1.tar.gz", hash = "sha256:9be2e46e11a701e142f842d6b9559d119efe80e154d53f641fd878a1b84438aa"},
+    {file = "sortinghat-1.11.0rc1-py3-none-any.whl", hash = "sha256:f5f4c668e44dd81d94f3ab643353f6d554edbaab06e99162b41191d0e39fcd9f"},
+    {file = "sortinghat-1.11.0rc1.tar.gz", hash = "sha256:20518a3843e712a8c1a8b70c9c3a0439f2425657325417de1b67795501e7c1ef"},
 ]
 
 [package.dependencies]
