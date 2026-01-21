@@ -1,5 +1,9 @@
 # Releases
 
+  ## sortinghat-openinfra 0.3.6 - (2026-01-21)
+  
+  * Update Poetry's package dependencies
+
   ## sortinghat-openinfra 0.3.5 - (2025-12-12)
   
   * Update Poetry's package dependencies
